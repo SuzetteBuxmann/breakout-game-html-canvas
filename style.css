@@ -17,7 +17,7 @@ body {
 	display: block;
 	/* 0: top bottom, auto: left right*/
 	margin: 50px auto; 
-	border: 10px solid #808080;
+	border: 10px solid #3b3a3a;
 	border-radius: 5px;
 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
 }
